@@ -1,6 +1,6 @@
 # py_linkshortener
 Just a link shortener to learn FastAPI (python)
-
+https://realpython.com/build-a-python-url-shortener-with-fastapi/
 
 https://fastapi.tiangolo.com/
 https://github.com/kvesteri/validators
